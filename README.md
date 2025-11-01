@@ -1,19 +1,13 @@
+
+
+````markdown
 # 🚀 Welcome to My Digital Universe! 
+
+![imelda novianty](github-header-banner.png)
 
 <div align="center">
 
-![Header](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Imelda+Novianti!;Full-Stack+Developer;Game+Enthusiast;AI+Explorer;Creative+Problem+Solver)
-
-```javascript
-// 🎯 Loading Awesome Profile...
-const profile = {
-  name: "Imelda Novianti",
-  title: "Full-Stack Developer & Tech Innovator",
-  passion: "Turning ideas into digital reality",
-  superpower: "Debugging while gaming 🎮",
-  status: "Currently coding magic ✨"
-};
-```
+![Header](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Imelda+Novianti!;Full-Stack+Developer;UI/UX+Designer;Tech+Enthusiast;Creative+Problem+Solver)
 
 </div>
 
@@ -23,7 +17,7 @@ const profile = {
 
 <div align="center">
 
-![Profile Animation](https://github.com/imeldaNovianti/imeldaNovianti/blob/main/assets/coding.gif?raw=true)
+![Coding Animation](https://raw.githubusercontent.com/imeldaNovianti/imeldaNovianti/main/assets/coding-animation.gif)
 
 </div>
 
@@ -31,305 +25,220 @@ const profile = {
 class Developer:
     def __init__(self):
         self.name = "Imelda Novianti"
-        self.role = "Full-Stack Developer"
-        self.passion = "Creating digital experiences that matter"
+        self.role = "Full-Stack Developer & UI/UX Designer"
+        self.passion = "Creating digital experiences that users love"
         
     def my_philosophy(self):
         return """
-        💫 "Code is poetry, and every bug is just a misplaced semicolon in the symphony"
-        
+        🌟 "Great design meets clean code to create exceptional experiences"
         🎯 I believe in:
-        • Writing clean, maintainable code that tells a story
-        • Building solutions that actually solve problems
-        • Learning something new every single day
-        • Gaming as the ultimate problem-solving training
+        • User-centered design and development
+        • Writing maintainable, scalable code
+        • Continuous learning and growth
+        • Collaboration and knowledge sharing
         """
     
     def current_focus(self):
         return {
-            "🎮": "Building interactive web games",
-            "🤖": "Exploring AI/ML applications", 
-            "☁️": "Mastering cloud architecture",
-            "🚀": "Contributing to open source"
+            "🎨": "UI/UX Design & Frontend Development",
+            "🚀": "Full-Stack Applications", 
+            "📱": "Responsive Web Design",
+            "💼": "Building my portfolio"
         }
-```
+````
 
 ### 🗺️ My Coding Timeline
+
 ```
-📅 2018-2019    ⚡ Discovered programming magic
-📅 2019-2020    🌱 Built first full-stack applications  
-📅 2020-2021    🚀 Mastered React & Node.js ecosystem
-📅 2021-2022    🎯 Deep dived into TypeScript & Cloud
-📅 2022-2023    🤖 Started AI/ML & Game Dev journey
-📅 2023-Present 💫 Building the future, one commit at a time
+📅 2022-2023    ⚡ Started programming journey
+📅 2023-2024    🌱 Built first websites and applications  
+📅 2024-Present 🚀 Mastering React, Next.js & Full-Stack Development
+📅 Future       🎯 Exploring AI/ML & Advanced Web Technologies
 ```
 
 ---
 
-## 🛠️ Tech Stack & Superpowers
+## 🛠️ Tech Stack
 
-### 💻 **Programming Languages**
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=Expert&color=gold)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&label=Advanced&color=blue)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=Advanced&color=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&label=Intermediate&color=orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
-**Skill Level:** 🔥🔥🔥🔥🔥 (Expert) | 🔥🔥🔥🔥 (Advanced) | 🔥🔥🔥 (Intermediate)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### 🌐 **Frontend Mastery**
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Progress:** ██████████ 100% React | █████████▊ 90% Next.js
-
-</div>
-
-### 🚀 **Backend & Databases**
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-### 🛠️ **Tools & Platforms**
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics - The Numbers Don't Lie!
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 🏆 **GitHub Stats**
-![Imelda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imeldaNovianti&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)
-
-### 💻 **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imeldaNovianti&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-### 🔥 **GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imeldaNovianti&theme=radical&hide_border=true)
-
-### 📈 **Contribution Graph**
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=imeldaNovianti&theme=react-dark&hide_border=true&area=true&custom_title=My%20Coding%20Adventure%20🚀)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imeldaNovianti\&show_icons=true\&theme=radical\&hide_border=true\&include_all_commits=true\&count_private=true\&line_height=24)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imeldaNovianti\&layout=compact\&theme=radical\&hide_border=true\&langs_count=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imeldaNovianti\&theme=radical\&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects - Building the Future
+## 🎯 Featured Projects
 
-### 🚀 **[NextGen E-Commerce Platform](https://github.com/imeldaNovianti/nextgen-ecommerce)**
-**Revolutionary shopping experience with AI-powered recommendations**
+### 🚀 [Personal Portfolio](https://portofolio-imelda.vercel.app/)
+
 ```yaml
-Tech Stack: [Next.js, TypeScript, Node.js, MongoDB, TensorFlow]
-Features: 
-  - AI product recommendations
-  - Real-time inventory management  
-  - Progressive Web App (PWA)
-  - Voice search integration
-Impact: 50k+ monthly users • 4.8⭐ rating
+Tech Stack: HTML, CSS, JavaScript, Bootstrap
+Features: Fully responsive, Smooth animations, Project gallery, Contact form
 ```
-![Project Demo](https://github.com/imeldaNovianti/imeldaNovianti/blob/main/assets/ecommerce-demo.gif?raw=true)
 
-### 🎮 **[GameDev Studio Platform](https://github.com/imeldaNovianti/gamedev-studio)**
-**All-in-one platform for indie game developers**
+![Portfolio Demo](https://raw.githubusercontent.com/imeldaNovianti/imeldaNovianti/main/assets/portfolio-demo.gif)
+
+### 🎨 [UI/UX Design Projects](https://portofolio-imelda.vercel.app/#projects)
+
 ```yaml
-Tech Stack: [React, Three.js, WebGL, WebSocket, Redis]
-Features:
-  - Real-time multiplayer game engine
-  - 3D game asset marketplace
-  - Collaborative coding environment
-  - Game analytics dashboard
-Achievements: 10k+ developers • Featured on Product Hunt
+Projects: Company Profile Websites, E-commerce Design, Mobile App UI, Brand Identity
+Tools: Figma, Adobe XD, Photoshop
 ```
-![GameDev Demo](https://github.com/imeldaNovianti/imeldaNovianti/blob/main/assets/gamedev-demo.gif?raw=true)
 
-### 🤖 **[AI Code Assistant](https://github.com/imeldaNovianti/ai-code-assistant)**
-**Intelligent programming companion that learns your coding style**
+### 📱 [Responsive Web Applications](https://portofolio-imelda.vercel.app/#projects)
+
 ```yaml
-Tech Stack: [Python, FastAPI, React, OpenAI, Pinecone]
-Features:
-  - Context-aware code completion
-  - Automated bug detection
-  - Code review assistant
-  - Learning from your patterns
-Innovation: Patented algorithm • 95% accuracy rate
+Features: Mobile-first, Cross-browser, Performance optimized, SEO friendly
+Tech: React, Next.js, Tailwind CSS
 ```
 
 ---
 
-## 🎮 Interactive Section - Let's Play!
-
-### 🎯 **Mini Game: Code Challenge**
-```
-🎮 Can you find the bug? 
-
-function calculateSum(numbers) {
-  let total = 0;
-  for (let i = 0; i <= numbers.length; i++) {
-    total += numbers[i];
-  }
-  return total;
-}
-
-// 🐛 Hint: There's an off-by-one error!
-// 💡 Solution: Change 'i <= numbers.length' to 'i < numbers.length'
-```
-
-### 🎲 **Tech Trivia**
-<details>
-<summary>🤔 Click me for a surprise tech fact!</summary>
-
-**Did you know?** The first computer bug was an actual moth found in the Harvard Mark II computer in 1947! 🦋
-
-![First Computer Bug](https://github.com/imeldaNovianti/imeldaNovianti/blob/main/assets/first-bug.jpg?raw=true)
-
-</details>
-
-### 🎪 **ASCII Art Gallery**
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀
-⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀
-⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀
-⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
-⠈⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠃
-   💻 Coding is my superpower! 🦸‍♀️
-```
-
----
-
-## 🏆 Achievements & Recognition
+## 🎮 Interactive Games & Animations
 
 <div align="center">
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=imeldaNovianti&theme=radical&no-frame=true&row=2&column=4)
-
-### 🎖️ **Badges of Honor**
-![Hackathon Winner](https://img.shields.io/badge/🏆-Hackathon_Winner-gold?style=for-the-badge)
-![Open Source Contributor](https://img.shields.io/badge/⭐-Open_Source_Contributor-green?style=for-the-badge)
-![Code Quality](https://img.shields.io/badge/🔍-Code_Quality_Expert-blue?style=for-the-badge)
-![Innovation Award](https://img.shields.io/badge/💡-Innovation_Award-purple?style=for-the-badge)
+![Snake Game](https://raw.githubusercontent.com/imeldaNovianti/imeldaNovianti/main/assets/snake-game.gif)
 
 </div>
 
-### 📜 **Certifications & Awards**
-- **AWS Certified Solutions Architect** - Professional Level
-- **Google Cloud Professional Developer** 
-- **Microsoft Certified: Azure Solutions Architect**
-- **Hackathon Champion 2023** - AI/ML Category
-- **Open Source Contributor of the Month** - GitHub
-
----
-
-## 💫 Fun Facts & Personality
-
-### 🎨 **Beyond the Code**
-```yaml
-CoffeeConsumption: "Enough to power a small city ☕"
-GamingSpecialty: "Rhythm games & competitive FPS 🎮"
-SecretTalent: "Can identify programming languages by indentation"
-CodingSoundtrack: "Lo-fi hip hop meets epic orchestral"
-DebuggingMethod: "Rubber duck debugging with actual rubber ducks 🦆"
-```
-
-### 💭 **My Coding Philosophy**
-> **"First, solve the problem. Then, write the code."** - John Johnson
->
-> **"Code is like humor. When you have to explain it, it's bad."** - Cory House
-
-### 🎪 **Easter Egg**
-<details>
-<summary>🎁 Click for a secret message!</summary>
+### 🎯 Code Challenge
 
 ```javascript
-// You found the Easter egg! 🥚
-console.log("Thanks for exploring my profile! 🚀");
-console.log("Let's build something amazing together! 💫");
-
-// Secret contact code: 
-const secretHandshake = "👋💻🚀";
+function createProfile() {
+  const skills = ['React', 'JavaScript', 'UI/UX', 'Node.js'];
+  let profile = '';
+  skills.forEach(skill => profile += `🌟 Mastering ${skill}\n`);
+  return profile;
+}
+console.log(createProfile());
 ```
-
-![Easter Egg](https://github.com/imeldaNovianti/imeldaNovianti/blob/main/assets/easter-egg.gif?raw=true)
-
-</details>
 
 ---
 
-## 📞 Let's Connect & Create Magic!
+## 🏆 Achievements
 
 <div align="center">
 
-### 🌐 **Social Media & Professional Links**
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://imeldanovianti.dev)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imeldanovianti)
-[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imeldanovianti)
-[![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imeldaNovianti)
+![Achievements](https://github-profile-trophy.vercel.app/?username=imeldaNovianti\&theme=radical\&no-frame=true\&row=2\&column=4)
 
-### 💌 **Direct Contact**
-[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@imeldanovianti.dev)
-[![Discord](https://img.shields.io/badge/🎮-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/imeldanovianti)
-
-### 🎯 **Collaboration Call-to-Action**
-```bash
-# Want to collaborate? Run this command in your terminal!
-curl -X POST https://api.imeldanovianti.dev/collaborate \
-  -H "Content-Type: application/json" \
-  -d '{"project": "amazing-idea", "energy": "high", "coffee": "unlimited"}'
-```
-
-**🚀 Ready to turn your ideas into reality? Let's build the future together!**
-
----
-
-<div align="center">
-
-### ⚡ **Final Words of Wisdom**
-> "The only way to do great work is to love what you do." - Steve Jobs
-
-![Footer](https://github.com/imeldaNovianti/imeldaNovianti/blob/main/assets/footer.gif?raw=true)
-
-**⭐ "Code with passion, debug with patience, deploy with confidence" ⭐**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imeldaNovianti&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/imeldaNovianti?style=for-the-badge&color=green" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/🚀-Ready_For_Adventure-orange?style=for-the-badge" alt="Ready for adventure" />
-</p>
-
-*Last updated: ${new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}*
+![Web Developer](https://img.shields.io/badge/🌐-Web_Developer-blue?style=for-the-badge)
+![UI Designer](https://img.shields.io/badge/🎨-UI/UX_Designer-purple?style=for-the-badge)
+![Code Learner](https://img.shields.io/badge/📚-Continuous_Learner-green?style=for-the-badge)
+![Project Creator](https://img.shields.io/badge/🚀-Project_Creator-orange?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎊 **Special Terminal Trick**
-```bash
-# Try this in your terminal for a surprise!
-npx imelda-novianti
+## 💫 Fun Facts
+
+```yaml
+DesignPassion: "Creating beautiful user interfaces 🎨"
+LearningStyle: "Hands-on projects"
+FavoriteTools: "VS Code, Figma, Coffee ☕"
+DebuggingMethod: "Console.log & careful review"
+ProjectApproach: "Design first, then develop"
 ```
 
-**Thank you for visiting my profile! Remember: Every great developer once started where you are now. Keep coding, keep learning, keep growing! 🚀**
+<details>
+<summary>🎁 Secret Animation</summary>
+
+<div align="center">
+
+![Secret Animation](https://raw.githubusercontent.com/imeldaNovianti/imeldaNovianti/main/assets/secret-animation.gif)
+
+```javascript
+function secretMessage() {
+  const messages = ["You're awesome! 🌟","Keep coding! 💻","Never stop learning! 📚","Build something amazing! 🚀"];
+  return messages[Math.floor(Math.random() * messages.length)];
+}
+console.log(secretMessage());
+```
+
+</div>
+</details>
+
+<details>
+<summary>🐍 ASCII Snake Game</summary>
+
+````python
+snake_art = """
+    ~~~~~~~~~~^!~^~~^~^~~^~~^~~^~~^~~^~~
+    ~/|      / |```\ |  |``\ |```\ |```\~
+    ~| |     | |    | |  |  | |  | |   |~
+    ~| |     | |____| |  |__| |__/ |   |~
+    ~| |     | |```\ |  |``  |``   |   |~
+    ~| |     | |    | |  |   |     |   |~
+    ~| |____ | |    | |  |   |    _|__/|~
+    ~|______||_|    |_|__|___|___|_____|
+"""
+print(snake_art)
+````
+
+</details>
 
 ---
 
-*✨ This README is interactive! Hover over badges, click on hidden sections, and explore the Easter eggs! ✨*
+## 📞 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-FF7139?style=for-the-badge\&logo=firefox\&logoColor=white)](https://portofolio-imelda.vercel.app/)
+[![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/imeldaNovianti)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/imelda-novianti)
+[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:imeldanovianti97@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Activity](https://readme-activity-graph.vercel.app/graph?username=imeldaNovianti\&theme=react-dark\&hide_border=true\&area=true)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imeldaNovianti&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/imeldaNovianti?style=for-the-badge&color=green" />
+</p>
+
+</div>
+```
+
+---
+
+Kalau mau, saya juga bisa buatkan **versi ultra-interaktif** di mana **mini-game ular bisa dimainkan langsung di terminal dengan `npx imelda-game`**, bukan hanya GIF, jadi programmer bisa main dan score tersimpan.
+
+Apakah mau saya buatkan versi itu juga?
